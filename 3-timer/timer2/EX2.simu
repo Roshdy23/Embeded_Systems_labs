@@ -1,0 +1,55 @@
+<circuit Speed_sps="1000000" animate="0" type="simulide_0.4" reactStep="50" Simu_Step_nS="1000" Speed_per="100" noLinAcc="5">
+
+Unique  Id: Ground-107: 
+Circuit Id: Ground-107
+<item mainComp="false" labelx="-16" id="Ground-107" valLabRot="0" valLabely="0" circRot="0" labelrot="0" x="-276" rotation="0" objectName="Ground-107" circPos="0,0" itemtype="Ground" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" y="-172" boardRot="-1e+6" labely="8" valLabelx="0"/>
+
+Unique  Id: Rail-111: 
+Circuit Id: Rail-111
+<item mainComp="false" Show_Volt="true" Unit=" V" labelx="-16" id="Rail-111" valLabRot="0" valLabely="8" circRot="1.2461146980886893e-306" labelrot="0" x="-324" rotation="-90" objectName="Rail-111" circPos="0,0" itemtype="Rail" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" Voltage="5" y="-172" boardRot="-1e+6" labely="-24" valLabelx="-16"/>
+
+Unique  Id: Seven Segment-112: 
+Circuit Id: Seven Segment-112
+<item mainComp="false" Color="0" Resistance="1" labelx="20" id="Seven Segment-112" valLabRot="0" valLabely="0" circRot="1.695e-321" labelrot="0" x="-284" rotation="0" MaxCurrent="0.02" objectName="Seven Segment-112" circPos="0,0" itemtype="Seven Segment" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" NumDisplays="1" vflip="1" Threshold="2.4" CommonCathode="true" y="-328" boardRot="-1e+6" labely="-44" Vertical_Pins="false" valLabelx="0"/>
+
+Unique  Id: Arduino Uno-150: 
+Circuit Id: Arduino Uno-150
+<item mainComp="false" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" labelx="100" id="Arduino Uno-150" valLabRot="0" valLabely="0" circRot="0" labelrot="0" x="-536" rotation="0" Auto_Load="false" objectName="Arduino Uno-150" circPos="0,0" itemtype="Arduino" Show_id="true" boardPos="-1e+6,-1e+6" Mhz="16" hflip="1" vflip="1" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," Name="arduinoUno" y="-368" boardRot="-1e+6" labely="-21" Logic_Symbol="false" Program="../../../../../../../../home/youssef-roshdy/Public/CMP/ThirdYear - Second Term/Embeded Sys/labs/3-timer/timer2/timer2.ino.standard.hex" valLabelx="0"/>
+
+Unique  Id: Connector-113: 
+Circuit Id: Connector-113
+<item mainComp="false" enodeid="Circ_eNode-151" labelx="-16" id="Connector-113" valLabRot="0" valLabely="0" circRot="0" endpinid="Rail-111-outnod" labelrot="0" x="-292" rotation="0" objectName="Connector-113" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-292,-296,-292,-188,-324,-188" y="-296" boardRot="-1e+6" labely="-24" startpinid="Seven Segment-112-pin_dot" valLabelx="0"/>
+
+Unique  Id: Connector-117: 
+Circuit Id: Connector-117
+<item mainComp="false" enodeid="Circ_eNode-152" labelx="-16" id="Connector-117" valLabRot="0" valLabely="0" circRot="6.95252409597187e-310" endpinid="Ground-107-Gnd" labelrot="0" x="-276" rotation="0" objectName="Connector-117" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-276,-296,-276,-188" y="-296" boardRot="-1e+6" labely="-24" startpinid="Seven Segment-112-pin_commona" valLabelx="0"/>
+
+Unique  Id: Connector-166: 
+Circuit Id: Connector-166
+<item mainComp="false" enodeid="enode-166" labelx="-16" id="Connector-166" valLabRot="0" valLabely="0" circRot="0" endpinid="Seven Segment-112-pin_a" labelrot="0" x="-528" rotation="0" objectName="Connector-166" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-528,-352,-548,-352,-548,-384,-308,-384,-308,-352" y="-352" boardRot="-1e+6" labely="-24" startpinid="Arduino Uno-150-PD0" valLabelx="0"/>
+
+Unique  Id: Connector-167: 
+Circuit Id: Connector-167
+<item mainComp="false" enodeid="enode-167" labelx="-16" id="Connector-167" valLabRot="0" valLabely="0" circRot="0" endpinid="Arduino Uno-150-PD1" labelrot="0" x="-308" rotation="0" objectName="Connector-167" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-308,-344,-332,-344,-332,-372,-540,-372,-540,-344,-528,-344" y="-344" boardRot="-1e+6" labely="-24" startpinid="Seven Segment-112-pin_b" valLabelx="0"/>
+
+Unique  Id: Connector-168: 
+Circuit Id: Connector-168
+<item mainComp="false" enodeid="enode-168" labelx="-16" id="Connector-168" valLabRot="0" valLabely="0" circRot="0" endpinid="Seven Segment-112-pin_c" labelrot="0" x="-528" rotation="0" objectName="Connector-168" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-528,-336,-556,-336,-556,-420,-312,-420,-312,-336,-308,-336" y="-336" boardRot="-1e+6" labely="-24" startpinid="Arduino Uno-150-PD2" valLabelx="0"/>
+
+Unique  Id: Connector-169: 
+Circuit Id: Connector-169
+<item mainComp="false" enodeid="enode-169" labelx="-16" id="Connector-169" valLabRot="0" valLabely="0" circRot="0" endpinid="Arduino Uno-150-PD3" labelrot="0" x="-308" rotation="0" objectName="Connector-169" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-308,-328,-340,-328,-340,-396,-572,-396,-572,-328,-528,-328" y="-328" boardRot="-1e+6" labely="-24" startpinid="Seven Segment-112-pin_d" valLabelx="0"/>
+
+Unique  Id: Connector-172: 
+Circuit Id: Connector-172
+<item mainComp="false" enodeid="enode-172" labelx="-16" id="Connector-172" valLabRot="0" valLabely="0" circRot="0" endpinid="Arduino Uno-150-PD5" labelrot="0" x="-308" rotation="0" objectName="Connector-172" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-308,-312,-368,-312,-368,-468,-568,-468,-568,-312,-528,-312" y="-312" boardRot="-1e+6" labely="-24" startpinid="Seven Segment-112-pin_f" valLabelx="0"/>
+
+Unique  Id: Connector-170: 
+Circuit Id: Connector-170
+<item mainComp="false" enodeid="enode-170" labelx="-16" id="Connector-170" valLabRot="0" valLabely="0" circRot="1.1125885373413595e-306" endpinid="Seven Segment-112-pin_e" labelrot="0" x="-528" rotation="0" objectName="Connector-170" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-528,-320,-628,-320,-628,-404,-324,-404,-324,-320,-308,-320" y="-320" boardRot="-1e+6" labely="-24" startpinid="Arduino Uno-150-PD4" valLabelx="0"/>
+
+Unique  Id: Connector-176: 
+Circuit Id: Connector-176
+<item mainComp="false" enodeid="enode-176" labelx="-16" id="Connector-176" valLabRot="0" valLabely="0" circRot="8.901110291602932e-307" endpinid="Seven Segment-112-pin_g" labelrot="0" x="-528" rotation="0" objectName="Connector-176" circPos="0,0" itemtype="Connector" Show_id="false" boardPos="-1e+6,-1e+6" hflip="1" vflip="1" pointList="-528,-304,-592,-304,-592,-436,-336,-436,-336,-304,-308,-304" y="-304" boardRot="-1e+6" labely="-24" startpinid="Arduino Uno-150-PD6" valLabelx="0"/>
+ 
+</circuit>
