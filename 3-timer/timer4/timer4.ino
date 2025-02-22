@@ -9,9 +9,9 @@ ISR(TIMER2_COMPA_vect) {
 void timer2_init(){
 
 // ctc
-  TCCR2B = (1<<WGM01);
+  TCCR2A = (1<<WGM21);
 //1024
-TCCR2B |= (1 << CS22)|(1 << CS21) | (1 << CS20);
+TCCR2B = (1 << CS22)|(1 << CS21) | (1 << CS20);
 // enable toogle interrupt
 TCCR2A |= ( 1 << COM2A0);
 // start your cnt =0
