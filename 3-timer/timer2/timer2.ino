@@ -33,11 +33,12 @@ uint8_t BCD_7seg(uint8_t num){
 
 void timer2_init(){
 // set up timer with prescaler = 256
-TCCR2B |= (1 << CS02);
+TCCR2B = (1 << CS22) | (1 << CS21);
+
 // initialize counter
 TCNT2 = 0;
 // enable overflow interrupt
-TIMSK2 |= (1 << TOIE0);
+TIMSK2 |= (1 << TOIE2);
 // enable global interrupts
 sei();
 // initialize overflow counter variable

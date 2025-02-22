@@ -10,7 +10,8 @@ tot_overflow++;
 
 void timer2_init(){
 
-TCCR2B |= (1 << CS02) | (1 << CS00);
+TCCR2B = (1 << CS22) | (1 << CS21) | (1 << CS20);
+
 
 TCNT2 = 0;
 

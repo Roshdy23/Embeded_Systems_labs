@@ -7,7 +7,8 @@ ISR (TIMER1_COMPA_vect)
 PORTC ^=(1<<0);
 }
 void timer1_init() {
-  TCCR1B |= (1 << WGM12)|(1 << CS02)|(1 << CS00);
+   TCCR1A = 0;
+  TCCR1B = (1 << WGM12)|(1 << CS12)|(1 << CS10);
   TCNT1 = 0;
   OCR1A = 7812;
   TIMSK1 |= (1 << OCIE1A);
